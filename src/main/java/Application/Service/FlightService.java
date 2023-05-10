@@ -85,7 +85,6 @@ public class FlightService {
     /**
      * TODO: Use the FlightDAO to retrieve a List containing all flights.
      * You could use the flightDAO.getAllFlights method.
-     *
      * @return all flights in the database.
      */
     public List<Flight> getAllFlights() {
